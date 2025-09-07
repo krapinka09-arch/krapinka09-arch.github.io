@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Poiret+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+} 
+
+body{
+    color: #F2F4F3;
+    background-color:#161D34;
+}
+.one{
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    background-image: url("images/starstwo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+p{
+
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+    padding: 5px 20px;
+    font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h3{
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px; 
+    padding: 20px;
+}
+.three{
+    background-color: #3E4964;
+
+}
+h2{
+    padding: 30px;
+}
+.two{
+    font-size: 20px;
+}
+p{
+    padding:5px 30px;
+}
+.divtwo{
+    height: 40px;
+}
+.divone{
+    height: 200px;
+}
+img{
+    display: inline-block;
+    width: 200px;
+    padding: 30px;
+    
+}
+a{
+padding: 0 0 0 70px;
+    font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    color:#F2F4F3;
+
+}
+.four{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+   flex-direction: row;
+}
+.five{
+    height: 20px;
+}
+.six{
+    display: inline-block;
+    width: 45px;
+}
+.seven{
+    display: inline-block;
+    width: 55px;
+}
+.nine{
+    width: 172px;
+    display: inline-block;
+}
+.eight{
+    width: 175px;
+    display: inline-block;
+}
+.footer{
+    padding: 30px;
+    color: #adb0b7;
+}
+.aone{
+    padding: 30px;
+    color: #adb0b7;
+}
+.imgone{
+   padding: 30px 42%;
+}
